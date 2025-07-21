@@ -1,0 +1,8 @@
+duck-frame-fixed/
+├── app/
+│   └── page.tsx
+├── public/
+├── package.json
+├── vercel.json
+├── .gitignore
+└── README.md
